@@ -63,3 +63,12 @@ This session, I spent entirely coding, and seeing if it was actually possible to
 
 ![11624](https://halflife.hackclub-assets.com/sessions/8PxktBTCGe7mPs4dSn1M9C3sxWoVNpfI/c0eeef566fd21504866620d17ea8156af37548f5634bac05ca87a546e919a501.jpg)
 I figured that my theremin project needed a case. I toke a long time to take the right measurements for the arduino uno, but after taking the measurements I found out that I could just find a model online, I did use my own measurements for the ultra sonic sensors though. I also added words to show which side is the pitch and which side is the volume.
+## Commits 
+Octboer 25 
+- made the repository
+- added read me
+- added scematic
+- added cad files for shell
+- added prototype code
+- added both BOMs
+- Added commits section to journal
